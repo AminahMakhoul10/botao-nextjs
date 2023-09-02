@@ -1,0 +1,47 @@
+.pesquisa_card {
+    display: flex;
+    background-color: #403e3e;
+    border-radius: 10px;
+    align-items: center;
+    padding: 10px;
+    justify-content: space-between;
+    height: 100%;
+    width: 100%;
+    
+}
+
+.pesquisa {
+    display: flex;
+    justify-content: center;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    background-color: #302f2f;
+    height: 100px;
+    padding: 10px;
+    
+}
+
+.pesquisa_form {
+    display: flex;
+    gap: 15px;
+    
+}
+
+.card_titulo {
+    color: #ffffff;
+    font-size: 22px;
+    text-align: center;
+}
+
+.card_texto{
+    color: #fff;
+
+}
+
+.card_agradecimento {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    text-align: center;
+}
